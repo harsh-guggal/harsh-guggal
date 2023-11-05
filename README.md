@@ -1,6 +1,6 @@
 <img height="400" align="right"  src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp">
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">An enthusiastic fresher with highly motivated. App developer having complete skill sets of Flutter, REST API, Firebase, HTML5, CSS3, JS, Java, Python and MySQL</h3>
+<h3 align="center">An enthusiastic with high motivation. App developer having complete skill sets of Flutter, REST API, Firebase, HTML5, CSS3, JS, Java, Python and MySQL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-guggal&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-guggal" /> </p>
 
